@@ -1,0 +1,10 @@
+{
+  "name": "site-acoes-alerta",
+  "version": "1.0.0",
+  "description": "Monitor de ações/FIIs da B3 com alertas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
